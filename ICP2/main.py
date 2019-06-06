@@ -13,7 +13,7 @@ if __name__=="__main__":
     def word_counter():
         """ICP part 3 counts the occurrences of individual words in a document"""
         counter = {}
-        file = open('ICP3_Part3.txt', 'r+')
+        file = open('ICP2_Part3.txt', 'r+')
         lines = file.readlines()
         file.write('\n')
         for line in lines:
