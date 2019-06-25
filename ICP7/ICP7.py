@@ -57,7 +57,7 @@ with open("input.txt", "r") as file:
 # Named Entity Recognition
     named_entities = []
     # pos_tag(tokenized_words
-    for pos in pos_tag(tokenized_words:
+    for pos in pos_tag(tokenized_words):
         try:
             named_entities.append(ne_chunk(pos))
         except IndexError:
