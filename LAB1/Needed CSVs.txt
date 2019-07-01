@@ -1,1 +1,4 @@
-Need iris.csv and mushrooms.csv
+Need iris.csv, mushrooms.csv, and heart.csv
+https://www.kaggle.com/uciml/mushroom-classification
+https://www.kaggle.com/uciml/iris
+https://www.kaggle.com/ronitf/heart-disease-uci/downloads/heart-disease-uci.zip/1
